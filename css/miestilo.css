@@ -1,0 +1,62 @@
+/* Ejemplo de comentario utilizando css */
+
+/**********************
+    Mi pagina
+**********************/
+
+header{
+    background:url("https://static.vecteezy.com/system/resources/previews/000/106/719/original/vector-abstract-blue-wave-background.jpg");
+    background-size:cover;
+    text-align: center;
+    color: black;
+}
+
+img{
+        margin: 40px 0px 0px 40px;
+        border: 7px solid darkcyan; 
+        border-radius: 20px;
+}
+ 
+    h1{
+        font-size: 70px;
+    }
+    
+    ul{
+        padding: 10px;
+        background: darkcyan;
+}
+        
+        li{
+            display: inline;
+            padding: 0px 10px 0px 10px;
+            
+        }
+ 
+    
+    
+    
+    a{
+        text-decoration: none;
+        color:lightcyan;
+        
+        
+        
+    }
+    
+
+
+
+ul li{
+    list-style: none;
+}
+
+/**********************
+    Mi pagina
+**********************/
+
+
+article{
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: justify;
+}
